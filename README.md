@@ -1,4 +1,4 @@
-# Attributes of Successful Businesses
+# Image Classification
 
 A data science project performing analysis on various restaurants and their attributes from the Yelp database.
 
